@@ -1,6 +1,8 @@
 # LOG-OF-MEASUREMENTS-WITH-A-STATIC-GRAVIMETER_app
 
-The application allows you to fill in and calculate log of measurements witch static gravimeter in short time. Places with yellow headers are required to perform the calculations.
+The application allows you to calculate log of measurements (static gravimetr) in short time. Places with yellow headers are required to perform the calculations.
+Every raw symbolizes one position, You can add as much raws as you need.
+This app allows also to import all data to .txt file.
 
 ### Basic window:
 ![image](https://user-images.githubusercontent.com/100380604/177712745-0c34d35e-f4c7-4dfc-b0b2-2e93e6c027ce.png)
