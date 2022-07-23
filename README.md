@@ -12,8 +12,8 @@ This app also allows to import all data to .txt file.
 
 ### Erors informations:
 
-#### Wrong data format:
+#### Not enough raws:
 ![image](https://user-images.githubusercontent.com/100380604/180600589-79a7940c-0abb-4ba6-b229-4151a1f002a4.png)
 
-#### Not enough raws:
+#### Wrong data format:
 ![image](https://user-images.githubusercontent.com/100380604/180600602-baefd6d6-b950-4e2c-87f6-f92f68b5d7a5.png)
